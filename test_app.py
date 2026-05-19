@@ -1,3 +1,3 @@
 def test_hola():
-    mensaje = "Hola desde git"
+    mensaje = "Practica don estudiantes de quinto A"
     assert "Hola" in mensaje
